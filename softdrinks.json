@@ -103,5 +103,43 @@
         "productName": "+ Eis, Limetten & frische Minze",
         "ltr": 0.25,
         "price": "4,20€"
+      },
+      {
+        "productName": "Moloko",
+        "ltr": 0.25,
+        "price": "3,80€",
+        "productName": "+ Eis, Limetten & frische Minze",
+        "ltr": 0.25,
+        "price": "4,20€"
+      },
+      {
+        "productName": "Ensinger Wasser Medium/Still",
+        "ltr": 0.25,
+        "price": "2,60€"
+      },
+      {
+        "productName": "Wasser Spezial",
+        "ltr": 0.40,
+        "price": "3,60€"
+      },
+      {
+        "productName": "Schweppes Ginger Ale",
+        "ltr": 0.2,
+        "price": "2,80€"
+      },
+      {
+        "productName": "Schweppes Ginger Bitter Lemon",
+        "ltr": 0.2,
+        "price": "2,80€"
+      },
+      {
+        "productName": "Schweppes Ginger Tonic Water",
+        "ltr": 0.2,
+        "price": "2,80€"
+      },
+      {
+        "productName": "Schweppes Ginger Russian Wildberry",
+        "ltr": 0.2,
+        "price": "2,80€"
       }
 ]
