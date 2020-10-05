@@ -1,19 +1,7 @@
 [
     {
-        "productName": "Coca Cola",
-        "ltr": 0.25,
-        "price": "3,10€"
-      },
-
-      {
-        "productName": "Fanta - Mezzo - Sprite⁰",
-        "ltr": 0.25,
-        "price": "3,10€"
-      },
-
-      {
-        "productName": "Hi Dose Spezial",
-        "ltr": 0.33,
-        "price": "3,10€"
+        "productName": "Vodka",
+        "ltr": "2cl",
+        "price": "3,00€"
       }
 ]
