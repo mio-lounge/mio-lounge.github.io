@@ -1,13 +1,10 @@
 [
-    {
-        "productName": "Coca Cola",
+    {"productName": "Coca Cola",
         "ltr": 0.20,
         "price": "3,00€"},
-      {
-        "productName": "Coca Cola Zero",
+      {"productName": "Coca Cola Zero",
         "ltr": 0.20,
-        "price": "3,00€"
-      },
+        "price": "3,00€"},
       {
         "productName": "Mezzo Mix",
         "ltr": 0.20,
