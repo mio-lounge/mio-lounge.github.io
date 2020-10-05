@@ -47,33 +47,46 @@
         "price": "3,00€"
       },
     
-          {
+      {
         "productName": "Elephant Bay Ice Tea - Pomegranate",
         "ltr": 0.33,
         "price": "3,00€"
       },
     
-          {
+      {
         "productName": "Elephant Bay Ice Tea - Lemon",
         "ltr": 0.33,
         "price": "3,00€"
       },
     
-          {
+      {
         "productName": "Elephant Bay Ice Tea - Melone",
         "ltr": 0.33,
         "price": "3,00€"
       },
     
-          {
+      {
         "productName": "Elephant Bay Ice Tea - Blueberry",
         "ltr": 0.33,
         "price": "3,00€"
       },
     
-          {
+      {
         "productName": "Elephant Bay Ice Tea - Mango & Pineapple",
         "ltr": 0.33,
         "price": "3,00€"
+      },
+                    
+      {
+        "productName": "RedBull <sup>(1,11,12,13)</sup>",
+        "ltr": 0.33,
+        "price": "3,00€"
+      },
+
+      {
+        "productName": "RedBull Sugarfree <sup>(1,8,9,11,12)",
+        "ltr": 0.33,
+        "price": "3,00€"
       }
+    
 ]
