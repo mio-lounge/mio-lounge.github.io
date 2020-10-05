@@ -1,145 +1,145 @@
 [
     {"productName": "Coca Cola",
-        "ltr": 0.20,
+        "ltr": "0.20l",
         "price": "3,00€"},
       {"productName": "Coca Cola Zero",
-        "ltr": 0.20,
+        "ltr": "0.20l",
         "price": "3,00€"},
       {
         "productName": "Mezzo Mix",
-        "ltr": 0.20,
+        "ltr": "0.20l",
         "price": "3,00€"
       },
       {
         "productName": "Fanta",
-        "ltr": 0.20,
+        "ltr": "0.20l",
         "price": "3,00€"
       },
       {
         "productName": "Sprite",
-        "ltr": 0.20,
+        "ltr": "0.20l",
         "price": "3,20€"
       },
       {
         "productName": "Orangina",
-        "ltr": 0.25,
+        "ltr": "0.25l",
         "price": "3,20€"
       },
       {
         "productName": "Orangina Rouge",
-        "ltr": 0.25,
+        "ltr": "0.25l",
         "price": "3,80€"
       },
       {
         "productName": "Elephant Bay Ice Tea - Peach", 
-        "ltr": 0.33,
+        "ltr": "0.33l",
         "price": "3,80€"
       },
     
       {
         "productName": "Elephant Bay Ice Tea - Pomegranate",
-        "ltr": 0.33,
+        "ltr": "0.33l",
         "price": "3,80€"
       },
     
       {
         "productName": "Elephant Bay Ice Tea - Lemon",
-        "ltr": 0.33,
+        "ltr": "0.33l",
         "price": "3,80€"
       },
     
       {
         "productName": "Elephant Bay Ice Tea - Melone",
-        "ltr": 0.33,
+        "ltr": "0.33l",
         "price": "3,80€"
       },
     
       {
         "productName": "Elephant Bay Ice Tea - Blueberry",
-        "ltr": 0.33,
+        "ltr": "0.33l",
         "price": "3,80€"
       },
     
       {
         "productName": "Elephant Bay Ice Tea - Mango & Pineapple",
-        "ltr": 0.33,
+        "ltr": "0.33l",
         "price": "3,80€"
       },
                     
       {
         "productName": "RedBull¹",
-        "ltr": 0.25,
+        "ltr": "0.25l",
         "price": "3,80€"
       },
 
       {
         "productName": "RedBull Sugarfree",
-        "ltr": 0.25,
+        "ltr": "0.25l",
         "price": "3,80€"
       },
     
       {
         "productName": "RedBull Red",
-        "ltr": 0.25,
+        "ltr": "0.25l",
         "price": "3,80€"
       },
     
       {
         "productName": "RedBull White",
-        "ltr": 0.25,
+        "ltr": "0.25l",
         "price": "3,80€"
       },
     
       {
         "productName": "RedBull Blue",
-        "ltr": 0.25,
+        "ltr": "0.25l",
         "price": "3,80€"
       },
     
       {
         "productName": "28 Black",
-        "ltr": 0.25,
+        "ltr": "0.25l",
         "price": "3,80€"},
        {"productName": "28 Black + Eis, Limetten & frische Minze",
-        "ltr": 0.25,
+        "ltr": "0.25l",
         "price": "4,20€"
       },
       {
         "productName": "Moloko",
-        "ltr": 0.25,
+        "ltr": "0.25l",
         "price": "3,80€"},
        {"productName": "Moloko + Eis, Limetten & frische Minze",
-        "ltr": 0.25,
+        "ltr": "0.25l",
         "price": "4,20€"
       },
       {
         "productName": "Ensinger Wasser Medium/Still",
-        "ltr": 0.25,
+        "ltr": "0.25l",
         "price": "2,60€"
       },
       {
         "productName": "Wasser Spezial",
-        "ltr": 0.40,
+        "ltr": "0.40l",
         "price": "3,60€"
       },
       {
         "productName": "Schweppes Ginger Ale",
-        "ltr": 0.2,
+        "ltr": "0.20l",
         "price": "2,80€"
       },
       {
         "productName": "Schweppes Ginger Bitter Lemon",
-        "ltr": 0.2,
+        "ltr": "0.20l",
         "price": "2,80€"
       },
       {
         "productName": "Schweppes Ginger Tonic Water",
-        "ltr": 0.2,
+        "ltr": "0.20l",
         "price": "2,80€"
       },
       {
         "productName": "Schweppes Ginger Russian Wildberry",
-        "ltr": 0.2,
+        "ltr": "0.20l",
         "price": "2,80€"
       }
 ]
