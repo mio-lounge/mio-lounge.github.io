@@ -78,14 +78,14 @@
       },
                     
       {
-        "productName": "RedBull <sup>(1,11,12,13)</sup>",
-        "ltr": 0.33,
+        "productName": "RedBull '(1,11,12,13)'",
+        "ltr": 0.25,
         "price": "3,00€"
       },
 
       {
-        "productName": "RedBull Sugarfree <sup>(1,8,9,11,12)",
-        "ltr": 0.33,
+        "productName": "RedBull Sugarfree '(1,8,9,11,12)'",
+        "ltr": 0.25,
         "price": "3,00€"
       }
     
