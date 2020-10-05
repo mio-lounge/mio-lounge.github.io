@@ -3,5 +3,35 @@
         "productName": "Vodka",
         "ltr": "2cl",
         "price": "3,00€"
-      }
+      },
+        {
+        "productName": "Vodka Lime",
+        "ltr": "2cl",
+        "price": "3,00€"
+      },
+        {
+        "productName": "Tequilla Silver",
+        "ltr": "2cl",
+        "price": "3,00€"
+      },
+        {
+        "productName": "Tequilla Gold",
+        "ltr": "2cl",
+        "price": "3,00€"
+      },
+        {
+        "productName": "Erdbeerlime",
+        "ltr": "2cl",
+        "price": "3,00€"
+      },
+        {
+        "productName": "Ouzo",
+        "ltr": "2cl",
+        "price": "3,00€"
+      },
+        {
+        "productName": "Jagermeister",
+        "ltr": "2cl",
+        "price": "3,00€"
+      },
 ]
