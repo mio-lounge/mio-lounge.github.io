@@ -1,19 +1,36 @@
 [
     {
-        "productName": "Coca Cola",
-        "ltr": 0.25,
-        "price": "3,10€"
+        "productName": "Jacky Cola",
+        "ltr": "4cl",
+        "price": "7,00€"
       },
-
-      {
-        "productName": "Fanta - Mezzo - Sprite⁰",
-        "ltr": 0.25,
-        "price": "3,10€"
-      },
-
-      {
-        "productName": "Schwarze Dose Spezial",
-        "ltr": 0.33,
-        "price": "3,10€"
+    {
+        "productName": "Vodka Bull",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },    {
+        "productName": "Gin Tonic",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },    {
+        "productName": "Bacardi Cola",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },    {
+        "productName": "Captain Morgan Cola",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },    {
+        "productName": "Jagermeister Bull",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },    {
+        "productName": "Havana Rum Cola",
+        "ltr": "4cl",
+        "price": "7,00€"
+      },    {
+        "productName": "Johnnie Walker Cola",
+        "ltr": "4cl",
+        "price": "7,00€"
       }
 ]
