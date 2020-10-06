@@ -1,19 +1,72 @@
 [
     {
-        "productName": "Miro Cola",
-        "ltr": 0.25,
-        "price": "3,10€"
+        "productName": "Jack Daniel's",
+        "ltr": "2cl",
+        "price": "5,00€"
       },
-
-      {
-        "productName": "Fanta - Mezzo - Sprite⁰",
-        "ltr": 0.25,
-        "price": "3,10€"
+{
+        "productName": "Jack Daniel's",
+        "ltr": "4cl",
+        "price": "6,50€"
       },
-
-      {
-        "productName": "Schwarze Dose Spezial",
-        "ltr": 0.33,
-        "price": "3,10€"
+    {
+        "productName": "Johnnie Walker Red Label",
+        "ltr": "2cl",
+        "price": "5,00€"
+      },
+    {
+        "productName": "Johnnie Walker Red Label",
+        "ltr": "4cl",
+        "price": "6,50€"
+      },
+    {
+        "productName": "Marker's Mark",
+        "ltr": "2cl",
+        "price": "5,00€"
+      },
+    {
+        "productName": "Marker's Mark",
+        "ltr": "4cl",
+        "price": "6,50€"
+      },
+    {
+        "productName": "Captain Morgan",
+        "ltr": "2cl",
+        "price": "5,00€"
+      },
+    {
+        "productName": "Captain Morgan",
+        "ltr": "4cl",
+        "price": "6,50€"
+      },
+    {
+        "productName": "Baileys",
+        "ltr": "2cl",
+        "price": "5,00€"
+      },
+    {
+        "productName": "Baileys",
+        "ltr": "4cl",
+        "price": "6,50€"
+      },
+    {
+        "productName": "Tekirdag Raki",
+        "ltr": "2cl",
+        "price": "5,00€"
+      },
+    {
+        "productName": "Tekirdag Raki",
+        "ltr": "4cl",
+        "price": "6,00€"
+      },
+    {
+        "productName": "Yeni Raki",
+        "ltr": "2cl",
+        "price": "4,50€"
+      },
+    {
+        "productName": "Yeni Raki",
+        "ltr": "4cl",
+        "price": "5,50€"
       }
 ]
