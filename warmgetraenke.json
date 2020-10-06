@@ -1,7 +1,6 @@
 [
     {
-        "productName": "Kaffee ⁽¹k³⁾",
-        "tag": "13,C",
+        "productName": "Kaffee ⁽¹³⁾",
         "price": "2,60€"
       },
     {
@@ -13,11 +12,11 @@
         "price": "1,90€"
       },
         {
-        "productName": "Espresso Macchiato ⁽¹³⁾",
+        "productName": "Espresso Macchiato ⁽¹³ C⁾",
         "price": "2,20€"
       },
         {
-        "productName": "Latte Macchiato",
+        "productName": "Latte Macchiato ⁽¹³ C⁾",
         "price": "3,50€"
       },
         {
