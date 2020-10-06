@@ -2,21 +2,21 @@
     {"productName": "Coca Cola ⁽¹ ¹¹⁾",
         "ltr": "0.20l",
         "price": "3,00€"},
-      {"productName": "Coca Cola Zero",
+      {"productName": "Coca Cola Zero ⁽¹ ⁸ ⁹ ¹¹⁾",
         "ltr": "0.20l",
         "price": "3,00€"},
       {
-        "productName": "Mezzo Mix",
+        "productName": "Mezzo Mix ⁽¹ ¹⁰ ¹¹⁾",
         "ltr": "0.20l",
         "price": "3,00€"
       },
       {
-        "productName": "Fanta",
+        "productName": "Fanta ⁽¹ ³ ¹⁰ ¹¹⁾",
         "ltr": "0.20l",
         "price": "3,00€"
       },
       {
-        "productName": "Sprite",
+        "productName": "Sprite ⁽¹⁰⁾",
         "ltr": "0.20l",
         "price": "3,20€"
       },
@@ -26,48 +26,48 @@
         "price": "3,20€"
       },
       {
-        "productName": "Orangina Rouge",
+        "productName": "Orangina Rouge ⁽¹⁾",
         "ltr": "0.25l",
         "price": "3,80€"
       },
       {
-        "productName": "Elephant Bay Ice Tea - Peach", 
+        "productName": "Elephant Bay Ice Tea - Peach ⁽³ ¹¹⁾", 
         "ltr": "0.33l",
         "price": "3,80€"
       },
     
       {
-        "productName": "Elephant Bay Ice Tea - Pomegranate",
+        "productName": "Elephant Bay Ice Tea - Pomegranate ⁽³ ¹¹⁾",
         "ltr": "0.33l",
         "price": "3,80€"
       },
     
       {
-        "productName": "Elephant Bay Ice Tea - Lemon",
+        "productName": "Elephant Bay Ice Tea - Lemon ⁽³ ¹¹⁾",
         "ltr": "0.33l",
         "price": "3,80€"
       },
     
       {
-        "productName": "Elephant Bay Ice Tea - Melone",
+        "productName": "Elephant Bay Ice Tea - Melone ⁽³ ¹¹⁾",
         "ltr": "0.33l",
         "price": "3,80€"
       },
     
       {
-        "productName": "Elephant Bay Ice Tea - Blueberry",
+        "productName": "Elephant Bay Ice Tea - Blueberry ⁽³ ¹¹⁾",
         "ltr": "0.33l",
         "price": "3,80€"
       },
     
       {
-        "productName": "Elephant Bay Ice Tea - Mango & Pineapple",
+        "productName": "Elephant Bay Ice Tea - Mango & Pineapple ⁽³ ¹¹⁾",
         "ltr": "0.33l",
         "price": "3,80€"
       },
                     
       {
-        "productName": "RedBull¹",
+        "productName": "RedBull ⁽¹ ¹¹ ¹² ¹³⁾",
         "ltr": "0.25l",
         "price": "3,80€"
       },
