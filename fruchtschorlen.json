@@ -1,53 +1,38 @@
 [
     {
-        "productName": "Bieroslav Jovici",
-        "ltr": 0.233,
-        "price": "3,10€"
+        "productName": "Holunder",
+        "ltr": "0,40l",
+        "price": "3,80€"
       },
-
-      {
-        "productName": "LOL - Mezzo - Sprite⁰",
-        "ltr": 0.25,
-        "price": "3,10€"
+    {
+        "productName": "Brombeere",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Erdbeere",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Himbeere",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Johannisbeere",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Heidelbeere",
+        "ltr": "0,40l",
+        "price": "3,80€"
       },
-
-      {
-        "productName": "Schwarze Dose Spezial",
-        "ltr": 0.33,
-        "price": "3,10€"
-      },
-      {
-        "productName": "Bieroslav Jovici",
-        "ltr": 0.233,
-        "price": "3,10€"
-      },
-
-      {
-        "productName": "LOL - Mezzo - Sprite⁰",
-        "ltr": 0.25,
-        "price": "3,10€"
-      },
-
-      {
-        "productName": "Schwarze Dose Spezial",
-        "ltr": 0.33,
-        "price": "3,10€"
-      },
-      {
-        "productName": "Bieroslav Jovici",
-        "ltr": 0.233,
-        "price": "3,10€"
-      },
-
-      {
-        "productName": "LOL - Mezzo - Sprite⁰",
-        "ltr": 0.25,
-        "price": "3,10€"
-      },
-
-      {
-        "productName": "Schwarze Dose Spezial",
-        "ltr": 0.33,
-        "price": "3,10€"
+        {
+        "productName": "Maracuja",
+        "ltr": "0,40l",
+        "price": "3,80€"
       }
+      
 ]
