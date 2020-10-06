@@ -1,19 +1,63 @@
 [
     {
-        "productName": "Coca Cola",
-        "ltr": 0.25,
-        "price": "3,10€"
+        "productName": "Ananassaft",
+        "ltr": "0,40l",
+        "price": "3,80€"
       },
-
-      {
-        "productName": "Fanta - Mezzo - Sprite⁰",
-        "ltr": 0.25,
-        "price": "3,10€"
+    {
+        "productName": "Ananassaftschorle",
+        "ltr": "0,40l",
+        "price": "3,60€"
       },
-
-      {
-        "productName": "Schwarze Dose Spezial",
-        "ltr": 0.33,
-        "price": "3,10€"
+        {
+        "productName": "Apfelsaft",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Apfelsaftschorle",
+        "ltr": "0,40l",
+        "price": "3,60€"
+      },   
+    {
+        "productName": "Bananensaft",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Kirschsaft",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Kirschsaftschorle",
+        "ltr": "0,40l",
+        "price": "3,60€"
+      },    
+    {
+        "productName": "KiBa",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Maracujanektar",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },   
+    {
+        "productName": "Maracujanektarschorle",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },    
+    {
+        "productName": "Orangensaft",
+        "ltr": "0,40l",
+        "price": "3,80€"
+      },   
+    {
+        "productName": "Orangensaftschorle",
+        "ltr": "0,40l",
+        "price": "3,80€"
       }
+      
 ]
