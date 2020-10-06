@@ -1,19 +1,29 @@
 [
     {
-        "productName": "Coca Cola",
-        "ltr": 0.25,
-        "price": "3,10€"
+        "productName": "Caipirinha",
+        "ltr": "0,40l",
+        "price": "8,00€"
       },
 
       {
-        "productName": "Fanta - Mezzo - Sprite⁰",
-        "ltr": 0.25,
-        "price": "3,10€"
+        "productName": "Virgin Caipirinha",
+        "ltr": "0,40l",
+        "price": "6,50€"
       },
 
       {
-        "productName": "Schwarze Dose Spezial",
-        "ltr": 0.33,
-        "price": "3,10€"
+        "productName": "Lillet",
+        "ltr": "0,20l",
+        "price": "5,50€"
+      },
+          {
+        "productName": "Hugo",
+        "ltr": "0,20l",
+        "price": "5,00€"
+      },
+          {
+        "productName": "Aperol Spritz",
+        "ltr": "0,20l",
+        "price": "5,00€"
       }
 ]
