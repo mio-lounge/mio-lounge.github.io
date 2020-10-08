@@ -1,7 +1,32 @@
 [
     {
-        "productName": "Weinkarte folgt...",
-        "ltr": 0.0,
-        "price": "0,0€"
+        "productName": "Weisswein",
+        "ltr": "0,20l",
+        "price": "4,50€"
+      },
+     {
+        "productName": "Weissweinschorle",
+        "ltr": "0,20l",
+        "price": "4,00€"
+      },
+     {
+        "productName": "Rosè",
+        "ltr": "0,20l",
+        "price": "4,50€"
+      },
+     {
+        "productName": "Rosèschorle",
+        "ltr": "0,20l",
+        "price": "4,00€"
+      },
+     {
+        "productName": "Rotwein",
+        "ltr": "0,20l",
+        "price": "4,50€"
+      },
+     {
+        "productName": "Prosecco Scavy & Ray",
+        "ltr": "0,20l",
+        "price": "3,80€"
       }
 ]
