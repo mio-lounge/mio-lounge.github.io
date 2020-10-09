@@ -1,54 +1,54 @@
 [
     {
-        "productName": "Sucuck Baguette ⁽A,B,C,D,E,F,G,H⁾"
+        "productName": "Sucuck Baguette ⁽A,B,C,D,E,F,G,H⁾",
         "price": "5,80€"
       },
         {
-        "productName": "Putenbrust Baguette ⁽A,B,C,E,H,I⁾"
+        "productName": "Putenbrust Baguette ⁽A,B,C,E,H,I⁾",
         "price": "5,50€"
       },
         {
-        "productName": "Putensalami Baguette ⁽A,B,C,D,E,F,G,H,I⁾"
+        "productName": "Putensalami Baguette ⁽A,B,C,D,E,F,G,H,I⁾",
         "price": "5,50€"
       },
         {
-        "productName": "KAESE Baguette ⁽A,B,C,D,F,G,H⁾"
+        "productName": "KAESE Baguette ⁽A,B,C,D,F,G,H⁾",
         "price": "5,20€"
       },
         {
-        "productName": "Pringles Classic"
+        "productName": "Pringles Classic",
         "price": "2,00€"
       },
         {
-        "productName": "Pringles Paprika"
+        "productName": "Pringles Paprika",
         "price": "2,00€"
       },    
             {
-        "productName": "Pringles Hot & Spicy"
+        "productName": "Pringles Hot & Spicy",
         "price": "2,00€"
       },    
             {
-        "productName": "Pringles Sour & Cream"
+        "productName": "Pringles Sour & Cream",
         "price": "2,00€"
       },    
             {
-        "productName": "Nussmischung"
+        "productName": "Nussmischung",
         "price": "2,00€"
       },
                 {
-        "productName": "Chilli Peants"
+        "productName": "Chilli Peants",
         "price": "2,00€"
       },    
                 {
-        "productName": "Pistazien"
+        "productName": "Pistazien",
         "price": "2,00€"
       },    
                    {
-        "productName": "BBQ Nuts"
+        "productName": "BBQ Nuts",
         "price": "2,00€"
       },   
                    {
-        "productName": "Giant Mais"
+        "productName": "Giant Mais",
         "price": "2,00€"
       }  
 ]
