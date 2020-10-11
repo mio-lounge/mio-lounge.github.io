@@ -1,31 +1,35 @@
 [
     {
         "productName": "LOFTEA ELLI ERDBEERE (Erdbeere & Papaya)",
-        "price": "3,50€"
+        "price": "3,80€"
       }, 
         {
         "productName": "LOFTEA JOGI JONTE (Johannisbeere & Kurkuma)",
-        "price": "3,50€"
+        "price": "3,80€"
       }, 
         {
         "productName": "LOFTEA HIMBEERE (Himbeere & Minze)",
-        "price": "3,50€"
+        "price": "3,80€"
       },     
     {
         "productName": "LOFTEA ZITRONE (Zitrone & Hanf)",
-        "price": "3,50€"
+        "price": "3,80€"
       },     
     {
-        "productName": "LOFTEA APFEL (Bratapfel)",
-        "price": "3,50€"
-      },     
+        "productName": "LOFTEA APFEL (Apfel & Zimt)",
+        "price": "3,80€"
+      },   
+        {
+        "productName": "LOFTEA NIKOLAUS (Weihnachtspunch)",
+        "price": "3,80€"
+      },    
     {
         "productName": "LOFTEA KAMILLE (Kamille)",
-        "price": "3,50€"
+        "price": "3,80€"
       },     
     {
         "productName": "LOFTEA CHAI LATTE (Wurziger Cay) ⁽C⁾",
-        "price": "3,50€"
+        "price": "4,00€"
       }, 
       {
         "productName": "Frische Minze Tee mit Zitrone",
