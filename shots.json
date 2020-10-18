@@ -33,5 +33,11 @@
         "productName": "Jagermeister",
         "ltr": "2cl",
         "price": "3,00€"
+      }, 
+        {
+        "productName": "Absinth 66",
+        "ltr": "2cl",
+        "price": "3,00€"
       }
+        
 ]
