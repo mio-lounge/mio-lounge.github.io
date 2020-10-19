@@ -3,5 +3,31 @@
         "productName": "Jack Daniel's",
         "ltr": "5,00€ (2cl)",
         "price": "6,50€ (4cl)"
+      },
+     {
+        "productName": "Jack Daniel's Single Barrel",
+        "ltr": "6,00€ (2cl)",
+        "price": "7,00€ (4cl)"
+      },
+     {
+        "productName": "Jack Daniel's Honey",
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
+      },
+     {
+        "productName": "Baileys ⁽C⁾",
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
+      },
+    {
+        "productName": "Tekirdag Raki",
+         "ltr": "5,00€ (2cl)",
+        "price": "6,00€ (4cl)"
+      },
+    {
+        "productName": "Yeni Raki",
+         "ltr": "4,50€ (2cl)",
+        "price": "5,50€ (4cl)"
       }
+
 ]
