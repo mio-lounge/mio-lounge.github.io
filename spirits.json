@@ -14,6 +14,31 @@
         "ltr": "5,00€ (2cl)",
         "price": "6,50€ (4cl)"
       },
+    {
+        "productName": "Johnnie Walker Red Label",
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
+      },
+    {
+        "productName": "Kilkerran Single Malt",
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
+      },
+     {
+        "productName": "The Balvenie Single Malt",
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
+      },
+     {
+        "productName": "Marker's Mark",
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
+      },
+    {
+        "productName": "Ballantines",
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
+      },
      {
         "productName": "Baileys ⁽C⁾",
         "ltr": "5,00€ (2cl)",
