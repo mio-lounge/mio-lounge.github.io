@@ -1,16 +1,4 @@
 [
-    {
-        "productName": "Caipirinha ⁽¹ ¹¹⁾",
-        "ltr": "0,40l",
-        "price": "8,00€"
-      },
-
-      {
-        "productName": "Virgin Caipirinha ⁽¹ ¹¹⁾",
-        "ltr": "0,40l",
-        "price": "6,50€"
-      },
-
       {
         "productName": "Lillet ⁽⁵ ¹¹⁾",
         "ltr": "0,20l",
@@ -25,5 +13,21 @@
         "productName": "Aperol Spritz ⁽¹ ⁵ ¹⁴⁾",
         "ltr": "0,20l",
         "price": "5,00€"
+      },
+     {
+        "productName": "Ramazzotti Aperitivo Rosato ⁽¹ ⁵ ¹⁴⁾",
+        "ltr": "0,20l",
+        "price": "5,00€"
+      },
+    {
+        "productName": "Caipirinha ⁽¹ ¹¹⁾",
+        "ltr": "0,40l",
+        "price": "8,00€"
+      },
+
+      {
+        "productName": "Virgin Caipirinha ⁽¹ ¹¹⁾",
+        "ltr": "0,40l",
+        "price": "6,50€"
       }
 ]
