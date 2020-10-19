@@ -1,11 +1,31 @@
 [
     {
         "productName": "Jack Daniel's",
-        "ltr": "4cl",
+        "ltr": "2cl",
         "price": "5,00€"
       },
 {
         "productName": "Jack Daniel's",
+        "ltr": "4cl",
+        "price": "6,50€"
+      },
+    {
+        "productName": "Jack Daniel's Single Barrel",
+        "ltr": "2cl",
+        "price": "6,00€"
+      },
+{
+        "productName": "Jack Daniel's Single Barrel",
+        "ltr": "4cl",
+        "price": "7,50€"
+      },
+    {
+        "productName": "Jack Daniel's Honey",
+        "ltr": "2cl",
+        "price": "5,00€"
+      },
+{
+        "productName": "Jack Daniel's Honey",
         "ltr": "4cl",
         "price": "6,50€"
       },
