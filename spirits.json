@@ -1,6 +1,7 @@
 [
     {
         "productName": "Jack Daniel's",
-        "price": "5,00€ (2cl) || 6,50€ (4cl)"
+        "ltr": "5,00€ (2cl)"
+        "price": "6,50€ (4cl)"
       }
 ]
