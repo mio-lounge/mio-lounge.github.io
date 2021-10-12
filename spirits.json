@@ -1,72 +1,58 @@
 [
+   {
+        "productName": "Jack Daniel's Single Barrel",
+        "ltr": "6,00€ (2cl)",
+        "price": "7,00€ (4cl)"
+      },
     {
         "productName": "Jack Daniel's",
-        "ltr": "2cl",
-        "price": "5,00€"
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
       },
-{
-        "productName": "Jack Daniel's",
-        "ltr": "4cl",
-        "price": "6,50€"
-      },
-    {
-        "productName": "Johnnie Walker Red Label ⁽¹⁾",
-        "ltr": "2cl",
-        "price": "5,00€"
+     {
+        "productName": "Jack Daniel's Honey",
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
       },
     {
-        "productName": "Johnnie Walker Red Label ⁽¹⁾",
-        "ltr": "4cl",
-        "price": "6,50€"
+        "productName": "Johnnie Walker Red Label",
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
       },
     {
+        "productName": "Kilkerran Single Malt",
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
+      },
+     {
+        "productName": "The Balvenie Single Malt",
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
+      },
+     {
         "productName": "Marker's Mark",
-        "ltr": "2cl",
-        "price": "5,00€"
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
       },
     {
-        "productName": "Marker's Mark",
-        "ltr": "4cl",
-        "price": "6,50€"
+        "productName": "Ballantines",
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
       },
-    {
-        "productName": "Captain Morgan ⁽¹⁾",
-        "ltr": "2cl",
-        "price": "5,00€"
-      },
-    {
-        "productName": "Captain Morgan ⁽¹⁾",
-        "ltr": "4cl",
-        "price": "6,50€"
-      },
-    {
+     {
         "productName": "Baileys ⁽C⁾",
-        "ltr": "2cl",
-        "price": "5,00€"
-      },
-    {
-        "productName": "Baileys ⁽C⁾",
-        "ltr": "4cl",
-        "price": "6,50€"
+        "ltr": "5,00€ (2cl)",
+        "price": "6,50€ (4cl)"
       },
     {
         "productName": "Tekirdag Raki",
-        "ltr": "2cl",
-        "price": "5,00€"
-      },
-    {
-        "productName": "Tekirdag Raki",
-        "ltr": "4cl",
-        "price": "6,00€"
+         "ltr": "5,00€ (2cl)",
+        "price": "6,00€ (4cl)"
       },
     {
         "productName": "Yeni Raki",
-        "ltr": "2cl",
-        "price": "4,50€"
-      },
-    {
-        "productName": "Yeni Raki",
-        "ltr": "4cl",
-        "price": "5,50€"
+         "ltr": "4,50€ (2cl)",
+        "price": "5,50€ (4cl)"
       }
+
 ]
