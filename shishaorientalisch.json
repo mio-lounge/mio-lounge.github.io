@@ -1,38 +1,27 @@
 [
     {
-        "productName": "Holunder ⁽¹¹⁾",
-        "ltr": "0,40l",
-        "price": "3,80€"
+        "productName": "NAMELESS Black Nana",
+        "ltr": "20g",
+        "price": "14,00€"
       },
     {
-        "productName": "Brombeere",
-        "ltr": "0,40l",
-        "price": "3,80€"
-      },    
-    {
-        "productName": "Erdbeere ⁽¹ ¹¹⁾",
-        "ltr": "0,40l",
-        "price": "3,80€"
-      },    
-    {
-        "productName": "Himbeere",
-        "ltr": "0,40l",
-        "price": "3,80€"
-      },    
-    {
-        "productName": "Johannisbeere",
-        "ltr": "0,40l",
-        "price": "3,80€"
-      },    
-    {
-        "productName": "Heidelbeere",
-        "ltr": "0,40l",
-        "price": "3,80€"
+        "productName": "CHAOS Falim Red",
+        "ltr": "20g",
+        "price": "14,00€"
       },
-        {
-        "productName": "Maracuja ⁽¹⁾",
-        "ltr": "0,40l",
-        "price": "3,80€"
+    {
+        "productName": "CHAOS Falim",
+        "ltr": "20g",
+        "price": "14,00€"
+      },
+    {
+        "productName": "CHILLMA Persischer Apfel",
+        "ltr": "20g",
+        "price": "14,00€"
+      },
+    {
+        "productName": "AL FAKHER Doppelapfel",
+        "ltr": "20g",
+        "price": "14,00€"
       }
-      
 ]
