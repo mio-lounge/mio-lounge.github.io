@@ -1,0 +1,49 @@
+[
+    {
+        "productName": "Jack Daniel's",
+        "ltr": "0,70l",
+        "price": "70,00€"
+      },
+
+      {
+        "productName": "Smirnoff Vodka",
+        "ltr": "0,70l",
+        "price": "65,00€"
+      },
+
+      {
+        "productName": "Johnnie Walker ⁽¹⁾",
+        "ltr": "0,70l",
+        "price": "65,00€"
+      },
+          {
+        "productName": "Bombay Gin",
+        "ltr": "0,70l",
+        "price": "65,00€"
+      },
+          {
+        "productName": "Bacardi Rum",
+        "ltr": "0,70l",
+        "price": "65,00€"
+      },
+          {
+        "productName": "Captain Morgan ⁽¹⁾",
+        "ltr": "0,70l",
+        "price": "60,00€"
+      },
+          {
+        "productName": "Tekirdag Raki",
+        "ltr": "0,70l",
+        "price": "70,00€"
+      },
+          {
+        "productName": "Yeni Raki",
+        "ltr": "0,70l",
+        "price": "55,00€"
+      },
+          {
+        "productName": "Scavy & Ray Prosecco ⁽⁵⁾",
+        "ltr": "0,75l",
+        "price": "45,00€"
+      }
+]
