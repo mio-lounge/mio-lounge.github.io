@@ -1,13 +1,8 @@
 [
-    {
-        "productName": "Ananassaft",
-        "ltr": "0,40l",
-        "price": "3,80€"
-      },
-    {
-        "productName": "Ananassaftschorle",
-        "ltr": "0,40l",
-        "price": "3,60€"
+     {
+        "productName": "GUA Lychee/Mango/Guave",
+        "ltr": "0,25l",
+        "price": "3,50€"
       },
         {
         "productName": "Apfelsaft",
@@ -38,26 +33,5 @@
         "productName": "KiBa ⁽¹¹⁾",
         "ltr": "0,40l",
         "price": "3,80€"
-      },    
-    {
-        "productName": "Maracujanektar",
-        "ltr": "0,40l",
-        "price": "3,80€"
-      },   
-    {
-        "productName": "Maracujanektarschorle",
-        "ltr": "0,40l",
-        "price": "3,60€"
-      },    
-    {
-        "productName": "Orangensaft",
-        "ltr": "0,40l",
-        "price": "3,80€"
-      },   
-    {
-        "productName": "Orangensaftschorle",
-        "ltr": "0,40l",
-        "price": "3,60€"
-      }
-      
+      }      
 ]
