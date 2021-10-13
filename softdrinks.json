@@ -1,10 +1,12 @@
 [
     {"productName": "Coca Cola ⁽¹ ¹¹⁾",
         "ltr": "0,20l",
-        "price": "3,00€"},
-      {"productName": "Coca Cola Zero              ⁽¹ ⁸ ⁹ ¹¹⁾",
+        "price": "3,00€"
+    },
+      {"productName": "Coca Cola Zero ⁽¹ ⁸ ⁹ ¹¹⁾",
         "ltr": "0,20l",
-        "price": "3,00€"},
+        "price": "3,00€"
+      },
       {
         "productName": "Mezzo Mix ⁽¹ ¹⁰ ¹¹⁾",
         "ltr": "0,20l",
@@ -58,7 +60,8 @@
       {
         "productName": "28 Black ⁽¹ ¹⁰ ¹¹ ¹²⁾",
         "ltr": "0,25l",
-        "price": "3,80€"},
+        "price": "3,80€"
+      },
        {"productName": "28 Black ⁽¹ ¹⁰ ¹¹ ¹²⁾ + Eis, Limetten & frische Minze",
         "ltr": "0,25l",
         "price": "4,20€"
@@ -66,10 +69,16 @@
       {
         "productName": "Moloko ⁽³ ¹⁰ ¹¹⁾",
         "ltr": "0,25l",
-        "price": "3,80€"},
+        "price": "3,80€"
+      },
        {"productName": "Moloko ⁽³ ¹⁰ ¹¹⁾ + Eis, Limetten & frische Minze",
         "ltr": "0,25l",
         "price": "4,20€"
+      },
+     {
+        "productName": "Schweppes ⁽¹ ³ ¹¹ ¹⁴⁾",
+        "ltr": "0,20l",
+        "price": "2,80€"
       },
       {
         "productName": "Teinacher Wasser Medium/Still",
@@ -80,10 +89,5 @@
         "productName": "Zauberwasser (Frische Minze & Zitrone)",
         "ltr": "0,40l",
         "price": "3,60€"
-      },
-      {
-        "productName": "Schweppes Ginger Ale/Wildberry/Tonic/Bitter Lemon ⁽¹ ³ ¹¹ ¹⁴⁾",
-        "ltr": "0,20l",
-        "price": "2,80€"
       }
 ]
