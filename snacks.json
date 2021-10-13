@@ -12,43 +12,11 @@
         "price": "5,50€"
       },
         {
-        "productName": "Kaese Baguette ⁽A,B,C,D,F,G,H⁾",
-        "price": "5,20€"
-      },
-        {
-        "productName": "Pringles Classic",
-        "price": "2,00€"
-      },
-        {
-        "productName": "Pringles Paprika",
-        "price": "2,00€"
-      },    
-            {
-        "productName": "Pringles Hot & Spicy",
-        "price": "2,00€"
-      },    
-            {
-        "productName": "Pringles Sour & Cream",
-        "price": "2,00€"
-      },    
-            {
-        "productName": "Nussmischung",
-        "price": "2,00€"
-      },
-                {
-        "productName": "Chilli Peanuts",
-        "price": "2,00€"
-      },    
-                {
-        "productName": "Pistazien",
-        "price": "2,00€"
-      },    
-                   {
-        "productName": "BBQ Nuts",
+        "productName": "Pringles versch. Sorten",
         "price": "2,00€"
       },   
                    {
-        "productName": "Giant Mais",
+        "productName": "Nüsse versch. Sorten",
         "price": "2,00€"
       }  
 ]
