@@ -1,49 +1,77 @@
 [
+     {
+        "productName": "187 Hamburg",
+        "ltr": "25g",
+        "price": "16,00€"
+      },
+     {
+        "productName": "AQUA MENTHA Black Box",
+        "ltr": "20g",
+        "price": "16,00€"
+      },
     {
-        "productName": "Jack Daniel's",
-        "ltr": "0,70l",
-        "price": "70,00€"
+        "productName": "AQUA MENTHA Lmn (Lemon)",
+        "ltr": "20g",
+        "price": "16,00€"
       },
-
-      {
-        "productName": "Smirnoff Vodka",
-        "ltr": "0,70l",
-        "price": "65,00€"
+    {
+        "productName": "O's African Queen",
+        "ltr": "20g",
+        "price": "16,00€"
       },
-
-      {
-        "productName": "Johnnie Walker ⁽¹⁾",
-        "ltr": "0,70l",
-        "price": "65,00€"
+    {
+        "productName": "HOLSTER Quwi Punch (Kiwi)",
+        "ltr": "20g",
+        "price": "16,00€"
       },
-          {
-        "productName": "Bombay Gin",
-        "ltr": "0,70l",
-        "price": "65,00€"
+    {
+        "productName": "DSCHINNI Pistazie",
+        "ltr": "20g",
+        "price": "16,00€"
       },
-          {
-        "productName": "Bacardi Rum",
-        "ltr": "0,70l",
-        "price": "65,00€"
+    {
+        "productName": "DSCHINNI Pe Ar Fresh (Birne)",
+        "ltr": "20g",
+        "price": "16,00€"
       },
-          {
-        "productName": "Captain Morgan ⁽¹⁾",
-        "ltr": "0,70l",
-        "price": "60,00€"
+    {
+        "productName": "MBM Hazar",
+        "ltr": "20g",
+        "price": "16,00€"
       },
-          {
-        "productName": "Tekirdag Raki",
-        "ltr": "0,70l",
-        "price": "70,00€"
+    {
+        "productName": "AL MASSIVA Blaulicht",
+        "ltr": "20g",
+        "price": "16,00€"
       },
-          {
-        "productName": "Yeni Raki",
-        "ltr": "0,70l",
-        "price": "55,00€"
+    {
+        "productName": "AL MASSIVA Sommer in Beirut",
+        "ltr": "20g",
+        "price": "16,00€"
       },
-          {
-        "productName": "Scavy & Ray Prosecco ⁽⁵⁾",
-        "ltr": "0,75l",
-        "price": "45,00€"
+    {
+        "productName": "TRUE PASSION Vampire Nights",
+        "ltr": "20g",
+        "price": "16,00€"
+      },
+     {
+        "productName": "TRUE PASSION Wild B Chill",
+        "ltr": "20g",
+        "price": "16,00€"
+      },
+    {
+        "productName": "DIAMOND SMOKE Lemon Splash",
+        "ltr": "20g",
+        "price": "16,00€"
+      },
+    {
+        "productName": "DIAMOND SMOKE Kolomo (Okolom)",
+        "ltr": "20g",
+        "price": "16,00€"
+      },
+    {
+        "productName": "DIAMOND SMOKE Belly Tingle",
+        "ltr": "20g",
+        "price": "16,00€"
       }
 ]
