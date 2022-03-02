@@ -13,22 +13,12 @@
         "price": "3,00€"
       },
       {
-        "productName": "Fanta ⁽¹ ³ ¹⁰ ¹¹⁾",
-        "ltr": "0,20l",
-        "price": "3,00€"
-      },
-      {
         "productName": "Sprite ⁽¹⁰⁾",
         "ltr": "0,20l",
         "price": "3,00€"
       },
       {
-        "productName": "Orangina",
-        "ltr": "0,25l",
-        "price": "3,20€"
-      },
-      {
-        "productName": "Orangina Rouge ⁽¹⁾",
+        "productName": "Orangina Original / Rouge ⁽¹⁾",
         "ltr": "0,25l",
         "price": "3,20€"
       },
@@ -36,6 +26,16 @@
         "productName": "Elephant Bay Ice Tea ⁽³ ¹¹⁾", 
         "ltr": "0,33l",
         "price": "3,80€"
+      },
+     {
+        "productName": "VIO Apfelschorle", 
+        "ltr": "0,30l",
+        "price": "3,60€"
+      },
+    {
+        "productName": "VIO Limetten- & Zitronenschorle", 
+        "ltr": "0,30l",
+        "price": "3,60€"
       },
       {
         "productName": "RedBull ⁽¹ ¹¹ ¹² ¹³⁾",
@@ -62,7 +62,7 @@
         "ltr": "0,25l",
         "price": "3,80€"
       },
-       {"productName": "28 Black ⁽¹ ¹⁰ ¹¹ ¹²⁾ + Eis, Limetten & frische Minze",
+       {"productName": "28 Black ⁽¹ ¹⁰ ¹¹ ¹²⁾ + Eis, Limetten",
         "ltr": "0,25l",
         "price": "4,20€"
       },
@@ -71,7 +71,7 @@
         "ltr": "0,25l",
         "price": "3,80€"
       },
-       {"productName": "Moloko ⁽³ ¹⁰ ¹¹⁾ + Eis, Limetten & frische Minze",
+       {"productName": "Moloko ⁽³ ¹⁰ ¹¹⁾ + Eis, Limetten",
         "ltr": "0,25l",
         "price": "4,20€"
       },
@@ -84,10 +84,5 @@
         "productName": "Teinacher Wasser Medium/Still",
         "ltr": "0,25l",
         "price": "2,60€"
-      },
-      {
-        "productName": "Zauberwasser (Frische Minze & Zitrone)",
-        "ltr": "0,40l",
-        "price": "3,60€"
       }
 ]
