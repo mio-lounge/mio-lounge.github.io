@@ -1,9 +1,4 @@
 [
-   {
-        "productName": "Jack Daniel's Single Barrel",
-        "ltr": "6,00€ (2cl)",
-        "price": "7,00€ (4cl)"
-      },
     {
         "productName": "Jack Daniel's",
         "ltr": "5,00€ (2cl)",
@@ -15,22 +10,17 @@
         "price": "6,50€ (4cl)"
       },
     {
-        "productName": "Johnnie Walker Red Label",
+        "productName": "Henessy",
         "ltr": "5,00€ (2cl)",
         "price": "6,50€ (4cl)"
       },
     {
-        "productName": "Kilkerran Single Malt",
+        "productName": "Johnnie Walker Red Label",
         "ltr": "5,00€ (2cl)",
         "price": "6,50€ (4cl)"
       },
      {
         "productName": "The Balvenie Single Malt",
-        "ltr": "5,00€ (2cl)",
-        "price": "6,50€ (4cl)"
-      },
-     {
-        "productName": "Marker's Mark",
         "ltr": "5,00€ (2cl)",
         "price": "6,50€ (4cl)"
       },
