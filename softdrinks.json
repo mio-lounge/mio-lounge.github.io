@@ -7,6 +7,11 @@
         "ltr": "0,20l",
         "price": "3,00€"
       },
+    
+      {"productName": "Cockta",
+        "ltr": "0,50l",
+        "price": "3,80€"
+      },
       {
         "productName": "Mezzo Mix ⁽¹ ¹⁰ ¹¹⁾",
         "ltr": "0,20l",
@@ -67,23 +72,10 @@
         "ltr": "0,25l",
         "price": "3,80€"
       },
-       {"productName": "28 Black ⁽¹ ¹⁰ ¹¹ ¹²⁾ + Eis, Limetten",
-        "ltr": "0,25l",
-        "price": "4,20€"
-      },
       {
         "productName": "Moloko ⁽³ ¹⁰ ¹¹⁾",
         "ltr": "0,25l",
         "price": "3,80€"
-      },
-       {"productName": "Moloko ⁽³ ¹⁰ ¹¹⁾ + Eis, Limetten",
-        "ltr": "0,25l",
-        "price": "4,20€"
-      },
-     {
-        "productName": "Schweppes ⁽¹ ³ ¹¹ ¹⁴⁾",
-        "ltr": "0,20l",
-        "price": "2,80€"
       },
       {
         "productName": "Teinacher Wasser Medium/Still",
