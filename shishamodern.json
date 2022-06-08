@@ -1,8 +1,5 @@
 [
      {
-        "string": "Bitte frag uns, welche Tabaksorten wir aktuell im Sortiment haben",
-      },
-     {
         "productName": "187 Hamburg",
         "ltr": "25g",
         "price": "17,00€"
@@ -74,6 +71,11 @@
       },
     {
         "productName": "DIAMOND SMOKE Belly Tingle",
+        "ltr": "20g",
+        "price": "17,00€"
+      },
+     {
+        "productName": "Und viele mehr...",
         "ltr": "20g",
         "price": "17,00€"
       }
