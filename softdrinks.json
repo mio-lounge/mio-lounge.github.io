@@ -1,36 +1,36 @@
 [
     {"productName": "Coca Cola ⁽¹ ¹¹⁾",
         "ltr": "0,20l",
-        "price": "3,00€"
+        "price": "3,20€"
     },
       {"productName": "Coca Cola Zero ⁽¹ ⁸ ⁹ ¹¹⁾",
         "ltr": "0,20l",
-        "price": "3,00€"
-      },
-    
-      {"productName": "Cockta",
-        "ltr": "0,50l",
-        "price": "3,80€"
+        "price": "3,20€"
       },
       {
         "productName": "Mezzo Mix ⁽¹ ¹⁰ ¹¹⁾",
         "ltr": "0,20l",
-        "price": "3,00€"
+        "price": "3,20€"
       },
       {
         "productName": "Sprite ⁽¹⁰⁾",
         "ltr": "0,20l",
-        "price": "3,00€"
+        "price": "3,20€"
       },
       {
         "productName": "Orangina Original / Rouge ⁽¹⁾",
         "ltr": "0,25l",
-        "price": "3,20€"
+        "price": "3,50€"
+      },
+     {
+        "productName": "Cockta",
+        "ltr": "0,50l",
+        "price": "3,80€"
       },
     {
         "productName": "Elephant Bay Ice Tea ⁽³ ¹¹⁾", 
         "ltr": "0,33l",
-        "price": "3,80€"
+        "price": "3,90€"
       },
        {
         "productName": "Honest Bio Tee-Minze", 
@@ -50,36 +50,36 @@
       {
         "productName": "RedBull ⁽¹ ¹¹ ¹² ¹³⁾",
         "ltr": "0,25l",
-        "price": "3,80€"
+        "price": "3,90€"
       },
     {
         "productName": "RedBull White/Red/Blue ⁽¹ ¹¹ ¹² ¹³⁾",
         "ltr": "0,25l",
-        "price": "3,80€"
+        "price": "3,90€"
       },
       {
         "productName": "RedBull Sugarfree ⁽¹ ⁸ ⁹ ¹¹ ¹²⁾",
         "ltr": "0,25l",
-        "price": "3,80€"
-      },
-    {
-        "productName": "White Colombia Black/Blue/Yellow ⁽¹ ¹¹ ¹² ¹³⁾",
-        "ltr": "0,25l",
-        "price": "3,80€"
+        "price": "3,90€"
       },
       {
         "productName": "28 Black ⁽¹ ¹⁰ ¹¹ ¹²⁾",
         "ltr": "0,25l",
-        "price": "3,80€"
+        "price": "3,90€"
       },
       {
         "productName": "Moloko ⁽³ ¹⁰ ¹¹⁾",
         "ltr": "0,25l",
-        "price": "3,80€"
+        "price": "3,90€"
+      },
+     {
+        "productName": "Guarana ⁽³ ¹⁰ ¹¹⁾",
+        "ltr": "0,25l",
+        "price": "3,90€"
       },
       {
         "productName": "Teinacher Wasser Medium/Still",
         "ltr": "0,25l",
-        "price": "2,60€"
+        "price": "2,80€"
       }
 ]
