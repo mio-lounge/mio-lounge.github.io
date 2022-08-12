@@ -1,40 +1,36 @@
 [
     {
         "productName": "LOFTEA ELLI ERDBEERE (Erdbeere & Papaya)",
-        "price": "3,80€"
+        "price": "4,00€"
       }, 
         {
         "productName": "LOFTEA JOGI JONTE (Johannisbeere & Kurkuma)",
-        "price": "3,80€"
+        "price": "4,00€"
       }, 
         {
         "productName": "LOFTEA HIMBEERE (Himbeere & Minze)",
-        "price": "3,80€"
+        "price": "4,00€"
       },     
     {
         "productName": "LOFTEA ZITRONE (Zitrone & Hanf)",
-        "price": "3,80€"
+        "price": "4,00€"
       },     
     {
         "productName": "LOFTEA APFEL (Apfel & Zimt)",
-        "price": "3,80€"
+        "price": "4,00€"
       },   
         {
         "productName": "LOFTEA NIKOLAUS (Weihnachtspunch)",
-        "price": "3,80€"
+        "price": "4,00€"
       },    
     {
         "productName": "LOFTEA KAMILLE (Kamille)",
-        "price": "3,80€"
+        "price": "4,00€"
       },     
     {
         "productName": "LOFTEA CHAI LATTE (Wurziger Cay) ⁽C⁾",
         "price": "4,00€"
       }, 
-            {
-        "productName": "Beuteltee (versch. Sorten)",
-        "price": "2,50€"
-      },
      {
         "productName": "Cay gross",
         "price": "2,50€"
@@ -45,15 +41,15 @@
       },
     {
         "productName": "Kaffee ⁽¹³⁾",
-        "price": "2,60€"
-      },
-    {
-        "productName": "Cappuccino ⁽¹³⁾",
         "price": "2,80€"
       },
     {
+        "productName": "Cappuccino ⁽¹³⁾",
+        "price": "3,20€"
+      },
+    {
         "productName": "Espresso",
-        "price": "1,90€"
+        "price": "2,00€"
       },
         {
         "productName": "Espresso Macchiato ⁽¹³ C⁾",
@@ -61,7 +57,7 @@
       },
         {
         "productName": "Latte Macchiato ⁽¹³ C⁾",
-        "price": "3,50€"
+        "price": "3,80€"
       },
     {
         "productName": "Eiskaffee Nescafé Frappé ⁽¹³ C⁾",
