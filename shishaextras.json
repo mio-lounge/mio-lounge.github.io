@@ -1,14 +1,10 @@
 [
     {
         "productName": "Kopfwechsel Orientalisch",
-        "price": "7,00€"
+        "price": "7,50€"
       },
         {
        "productName": "Kopfwechsel Modern",
-        "price": "8,00€"
-      },
-        {
-        "productName": "Ice-Bazooka",
-        "price": "3,00€"
+        "price": "8,50€"
       }
 ]
