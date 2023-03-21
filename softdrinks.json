@@ -32,11 +32,6 @@
         "ltr": "0,33l",
         "price": "3,90€"
       },
-       {
-        "productName": "Honest Bio Tee-Minze", 
-        "ltr": "0,33l",
-        "price": "3,80€"
-      },
      {
         "productName": "VIO Apfelschorle", 
         "ltr": "0,30l",
@@ -53,7 +48,7 @@
         "price": "3,90€"
       },
     {
-        "productName": "RedBull White/Red/Blue ⁽¹ ¹¹ ¹² ¹³⁾",
+        "productName": "RedBull White/Red/Green/Yellow ⁽¹ ¹¹ ¹² ¹³⁾",
         "ltr": "0,25l",
         "price": "3,90€"
       },
@@ -81,6 +76,16 @@
         "productName": "Guarana ⁽³ ¹⁰ ¹¹⁾",
         "ltr": "0,25l",
         "price": "3,90€"
+      },
+     {
+        "productName": "Schweppes Tonic⁽³ ¹⁰ ¹¹⁾",
+        "ltr": "0,20l",
+        "price": "3,00€"
+      },
+      {
+        "productName": "Schweppes Wildberry⁽³ ¹⁰ ¹¹⁾",
+        "ltr": "0,20l",
+        "price": "3,00€"
       },
       {
         "productName": "Teinacher Wasser Medium/Still",
