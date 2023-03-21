@@ -6,7 +6,7 @@
       },
 
       {
-        "productName": "Smirnoff Vodka",
+        "productName": "SKY Vodka",
         "ltr": "0,70l",
         "price": "65,00€"
       },
@@ -32,24 +32,14 @@
         "price": "60,00€"
       },
           {
-        "productName": "Tekirdag Raki",
-        "ltr": "0,70l",
-        "price": "70,00€"
-      },
-          {
-        "productName": "Yeni Raki",
-        "ltr": "0,70l",
-        "price": "55,00€"
-      },
-          {
         "productName": "Scavy & Ray Prosecco ⁽⁵⁾",
         "ltr": "0,75l",
         "price": "45,00€"
       },
     {
-        "productName": "MOET Ice Imperial ⁽⁵⁾",
+        "productName": "MOET ⁽⁵⁾",
         "ltr": "0,75l",
-        "price": "100,00€"
+        "price": "90,00€"
       }
 
 ]
