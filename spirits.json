@@ -19,25 +19,10 @@
         "ltr": "5,00€ (2cl)",
         "price": "6,50€ (4cl)"
       },
-     {
-        "productName": "The Balvenie Single Malt",
-        "ltr": "5,00€ (2cl)",
-        "price": "6,50€ (4cl)"
-      },
     {
         "productName": "Ballantines",
         "ltr": "5,00€ (2cl)",
         "price": "6,50€ (4cl)"
-      },
-    {
-        "productName": "Tekirdag Raki",
-         "ltr": "5,00€ (2cl)",
-        "price": "6,00€ (4cl)"
-      },
-    {
-        "productName": "Yeni Raki",
-         "ltr": "4,50€ (2cl)",
-        "price": "5,50€ (4cl)"
       }
 
 ]
