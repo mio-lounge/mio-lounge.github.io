@@ -1,19 +1,19 @@
 [
-    {"productName": "Coca Cola ⁽¹ ¹¹⁾",
+    {"productName": "Coca Cola ⁽¹ ¹¹ ¹³⁾",
         "ltr": "0,20l",
         "price": "3,20€"
     },
-      {"productName": "Coca Cola Zero ⁽¹ ⁸ ⁹ ¹¹⁾",
+      {"productName": "Coca Cola Zero ⁽¹ ⁸ ⁹ ¹¹ ¹³⁾",
         "ltr": "0,20l",
         "price": "3,20€"
       },
       {
-        "productName": "Mezzo Mix ⁽¹ ¹⁰ ¹¹⁾",
+        "productName": "Mezzo Mix ⁽¹ ⁸ ¹¹ ¹³⁾",
         "ltr": "0,20l",
         "price": "3,20€"
       },
       {
-        "productName": "Sprite ⁽¹⁰⁾",
+        "productName": "Sprite ⁽¹¹⁾",
         "ltr": "0,20l",
         "price": "3,20€"
       },
@@ -23,7 +23,7 @@
         "price": "3,50€"
       },
      {
-        "productName": "Cockta",
+        "productName": "Cockta ⁽¹ ² ¹¹⁾",
         "ltr": "0,33l",
         "price": "3,90€"
       },
@@ -38,7 +38,7 @@
         "price": "3,60€"
       },
     {
-        "productName": "VIO Limetten- & Zitronenschorle", 
+        "productName": "VIO Limetten- & Zitronenschorle ⁽³⁾", 
         "ltr": "0,30l",
         "price": "3,60€"
       },
@@ -48,42 +48,42 @@
         "price": "3,90€"
       },
     {
-        "productName": "RedBull White/Red/Green/Yellow ⁽¹ ¹¹ ¹² ¹³⁾",
+        "productName": "RedBull White/Green/Yellow ⁽¹ ¹¹ ¹² ¹³⁾",
         "ltr": "0,25l",
         "price": "3,90€"
       },
       {
-        "productName": "RedBull Sugarfree ⁽¹ ⁸ ⁹ ¹¹ ¹²⁾",
+        "productName": "RedBull Sugarfree ⁽¹ ⁸ ⁹ ¹¹ ¹² ¹³⁾",
         "ltr": "0,25l",
         "price": "3,90€"
       },
       {
-        "productName": "28 Black ⁽¹ ¹⁰ ¹¹ ¹²⁾",
+        "productName": "28 Black ⁽¹ ¹¹ ¹³⁾",
         "ltr": "0,25l",
         "price": "3,90€"
       },
       {
-        "productName": "Moloko ⁽³ ¹⁰ ¹¹⁾",
+        "productName": "Moloko ⁽³ ¹¹ J⁾",
         "ltr": "0,25l",
         "price": "3,90€"
       },
      {
-        "productName": "Moloko Cranberry⁽³ ¹⁰ ¹¹⁾",
+        "productName": "Moloko Cranberry⁽¹¹⁾",
         "ltr": "0,25l",
         "price": "3,90€"
       },
      {
-        "productName": "Guarana ⁽³ ¹⁰ ¹¹⁾",
+        "productName": "Guarana ⁽¹ ¹¹ ¹² ¹³⁾",
         "ltr": "0,25l",
         "price": "3,90€"
       },
      {
-        "productName": "Schweppes Tonic⁽³ ¹⁰ ¹¹⁾",
+        "productName": "Schweppes Tonic⁽¹¹⁾",
         "ltr": "0,20l",
         "price": "3,00€"
       },
       {
-        "productName": "Schweppes Wildberry⁽³ ¹⁰ ¹¹⁾",
+        "productName": "Schweppes Wildberry⁽¹¹⁾",
         "ltr": "0,20l",
         "price": "3,00€"
       },
