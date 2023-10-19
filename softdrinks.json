@@ -32,13 +32,13 @@
         "ltr": "0,33l",
         "price": "3,90€"
       },
-     {
-        "productName": "VIO Apfelschorle", 
-        "ltr": "0,30l",
-        "price": "3,60€"
+{
+        "productName": "Elephant Bay Limonade (Exotic, Pink Melo, Minze & Limette) ⁽³ ¹¹⁾", 
+        "ltr": "0,33l",
+        "price": "3,90€"
       },
-    {
-        "productName": "VIO Limetten- & Zitronenschorle ⁽³⁾", 
+{
+        "productName": "VIO Apfelschorle", 
         "ltr": "0,30l",
         "price": "3,60€"
       },
@@ -48,7 +48,7 @@
         "price": "3,90€"
       },
     {
-        "productName": "RedBull White/Green/Yellow ⁽¹ ¹¹ ¹² ¹³⁾",
+        "productName": "RedBull White/Yellow/Blue ⁽¹ ¹¹ ¹² ¹³⁾",
         "ltr": "0,25l",
         "price": "3,90€"
       },
@@ -64,11 +64,6 @@
       },
       {
         "productName": "Moloko ⁽³ ¹¹ J⁾",
-        "ltr": "0,25l",
-        "price": "3,90€"
-      },
-     {
-        "productName": "Moloko Cranberry ⁽¹¹⁾",
         "ltr": "0,25l",
         "price": "3,90€"
       },
