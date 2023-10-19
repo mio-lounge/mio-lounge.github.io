@@ -1,35 +1,27 @@
 [
     {
-        "productName": "LOFTEA ELLI ERDBEERE (Erdbeere & Papaya)",
+        "productName": "LOFTEA - ELLI ERDBEERE (Erdbeere & Papaya)",
         "price": "4,00€"
       }, 
         {
-        "productName": "LOFTEA JOGI JONTE (Johannisbeere & Kurkuma)",
+        "productName": "LOFTEA - Mango & Orange",
         "price": "4,00€"
       }, 
         {
-        "productName": "LOFTEA HIMBEERE (Himbeere & Minze)",
+        "productName": "LOFTEA - Tutti Frutti (Waldbeeren & Aprikose)",
         "price": "4,00€"
       },     
     {
-        "productName": "LOFTEA ZITRONE (Zitrone & Hanf)",
+        "productName": "LOFTEA - Zitrone & Hanf",
         "price": "4,00€"
       },     
     {
-        "productName": "LOFTEA APFEL (Apfel & Zimt)",
+        "productName": "LOFTEA - Apfel & Zimt",
         "price": "4,00€"
-      },   
-        {
-        "productName": "LOFTEA NIKOLAUS (Weihnachtspunch)",
-        "price": "4,00€"
-      },    
+     },    
     {
-        "productName": "LOFTEA KAMILLE (Kamille)",
-        "price": "4,00€"
-      },     
-    {
-        "productName": "LOFTEA CHAI LATTE (Wurziger Cay) ⁽C⁾",
-        "price": "4,00€"
+        "productName": "LOFTEA - Kamille",
+     "price": "4,00€"
       }, 
     {
         "productName": "Kaffee ⁽¹³⁾",
