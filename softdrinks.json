@@ -27,11 +27,16 @@
         "ltr": "0,33l",
         "price": "3,90€"
       },
+ {
+        "productName": "Cedevita Zitrone/Limette/Orange ⁽³ ¹¹⁾", 
+        "ltr": "0,4l",
+        "price": "3,00€"
+      },
     {
         "productName": "Elephant Bay Ice Tea ⁽³ ¹¹⁾", 
         "ltr": "0,33l",
-        "price": "3,90€"
-      },
+        "price": "3,90€  
+}, 
 {
         "productName": "Elephant Bay Limonade (Exotic, Pink Melo, Minze & Limette) ⁽³ ¹¹⁾", 
         "ltr": "0,33l",
