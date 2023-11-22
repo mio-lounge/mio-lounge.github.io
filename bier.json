@@ -13,5 +13,10 @@
         "productName": "Jelen ⁽J⁾",
         "ltr": "0,33l",
         "price": "3,80€"
-                 }
+                 },
+         {
+        "productName": "Karlovacko ⁽J⁾",
+        "ltr": "0,33l",
+        "price": "3,80€"
+      },
 ]
