@@ -47,11 +47,6 @@
         "ltr": "0,33l",
         "price": "3,90€"
       },
-{
-        "productName": "VIO Apfelschorle", 
-        "ltr": "0,30l",
-        "price": "3,60€"
-      },
       {
         "productName": "RedBull ⁽¹ ¹¹ ¹² ¹³⁾",
         "ltr": "0,25l",
@@ -79,11 +74,6 @@
       },
     {
         "productName": "Moloko Sugarfree ⁽³ ¹¹ J⁾",
-        "ltr": "0,25l",
-        "price": "3,90€"
-      },
-{
-        "productName": "Moloko Cranberry ⁽³ ¹¹ J⁾",
         "ltr": "0,25l",
         "price": "3,90€"
       },
