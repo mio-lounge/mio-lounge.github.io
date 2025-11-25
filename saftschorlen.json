@@ -18,5 +18,25 @@
         "productName": "KiBa ⁽¹¹⁾",
         "ltr": "0,40l",
         "price": "3,80€"
-      }      
+      },
+    {
+        "productName": "Granini - Erdbeere ⁽¹¹⁾",
+        "ltr": "0,20l",
+        "price": "3,50€"
+      }  ,
+    {
+        "productName": "Granini - Orange ⁽¹¹⁾",
+        "ltr": "0,20l",
+        "price": "3,50€"
+      } ,
+    {
+        "productName": "Granini - Multivitamin ⁽¹¹⁾",
+        "ltr": "0,20l",
+        "price": "3,50€"
+      } ,
+    {
+        "productName": "Granini - Apfel ⁽¹¹⁾",
+        "ltr": "0,20l",
+        "price": "3,50€"
+      } 
 ]
